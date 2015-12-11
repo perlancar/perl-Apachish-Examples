@@ -1,0 +1,33 @@
+[
+   [
+      "C",
+      "context",
+      [],
+      [
+         [
+            "D",
+            "directive",
+            [
+               "val"
+            ]
+         ],
+         [
+            "D",
+            "directive2",
+            [
+               "#",
+               "not",
+               "a",
+               "comment"
+            ]
+         ],
+         [
+            "D",
+            "directive3",
+            [
+               "# not a comment"
+            ]
+         ]
+      ]
+   ]
+]
